@@ -1,0 +1,21 @@
+
+h1 {color: rgb(48, 28, 105);
+background-color: aqua;
+}
+hr{align-content: center;
+align-self: center;
+
+}
+.class1{
+    /* background-color: aqua; */
+    background-image: url(Praveen.jpg);
+    background-size: contain;
+    background-repeat: round;
+ color: rgb(255, 102, 0);
+ width: 350px;
+ margin: 6px 3px 6px 3px;
+}
+span{
+    background-color: blueviolet;
+}
+
